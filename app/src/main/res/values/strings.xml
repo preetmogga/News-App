@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="welcome">welcome</string>
+    <string name="todo">TODO</string>
+</resources>
